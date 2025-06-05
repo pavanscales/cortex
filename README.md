@@ -1,21 +1,16 @@
-# Cortext  
+
+# Cortex 
 Your Personal AI Engine.  
 All your notes, bookmarks, inspirations, articles and images in one single, private second brain, accessible anywhere, anytime.
 
----
-
 ## Introduction  
 Cortext is the powerful, personal AI engine that helps you organize and access all your important content securely and effortlessly.
-
----
 
 ## Screenshot
 
 ![Cortext App Screenshot](./assets/cortext-screenshot.png)
 
 *Replace `./assets/cortext-screenshot.png` with the path to your actual screenshot or photo.*
-
----
 
 ## Tech Stack
 
@@ -37,12 +32,8 @@ Cortext is the powerful, personal AI engine that helps you organize and access a
 - **Vaul** — User session/auth management (based on context)  
 - **Zod** — Schema validation  
 
----
-
 ## Contributing  
 Here's how you can contribute:
 
 - Open an issue if you believe you've encountered a bug.  
 - Make a pull request to add new features/make quality-of-life improvements/fix bugs.
-
----
