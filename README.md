@@ -1,69 +1,48 @@
-# Welcome to your Lovable project
+# Cortext  
+Your Personal AI Engine.  
+All your notes, bookmarks, inspirations, articles and images in one single, private second brain, accessible anywhere, anytime.
 
-## Project info
+---
 
-**URL**: https://lovable.dev/projects/513db1a2-0fcc-4643-bd43-f10d076dfa80
+## Introduction  
+Cortext is the powerful, personal AI engine that helps you organize and access all your important content securely and effortlessly.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## Screenshot
 
-**Use Lovable**
+![Cortext App Screenshot](./assets/cortext-screenshot.png)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/513db1a2-0fcc-4643-bd43-f10d076dfa80) and start prompting.
+*Replace `./assets/cortext-screenshot.png` with the path to your actual screenshot or photo.*
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **React 18** — Frontend UI library  
+- **Vite** — Fast build tool and dev server  
+- **TypeScript** — Typed JavaScript superset  
+- **Tailwind CSS** — Utility-first CSS framework  
+- **Radix UI** — Accessible React component primitives (Accordion, Dialog, Tooltip, etc.)  
+- **React Hook Form** — Form handling  
+- **React Router DOM** — Client-side routing  
+- **TanStack React Query** — Data fetching and caching  
+- **Prisma** — ORM for database management (if backend used)  
+- **ESLint** — Code linting  
+- **Lucide React** — Icon set  
+- **Date-fns** — Date utility functions  
+- **Recharts** — Charts and data visualization  
+- **Sonner** — Toast notifications  
+- **Tailwind CSS Animate & Tailwind Merge** — Animation and class merging utilities  
+- **Vaul** — User session/auth management (based on context)  
+- **Zod** — Schema validation  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## Contributing  
+Here's how you can contribute:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- Open an issue if you believe you've encountered a bug.  
+- Make a pull request to add new features/make quality-of-life improvements/fix bugs.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/513db1a2-0fcc-4643-bd43-f10d076dfa80) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+---
